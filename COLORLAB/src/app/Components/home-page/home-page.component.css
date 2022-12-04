@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Alice');
+
+.headtitles{
+    font-family: 'Alice';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+color: #CDC6C3;
+}
+
+.carousel{
+    height: 400px;
+    
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
