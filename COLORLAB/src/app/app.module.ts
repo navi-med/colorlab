@@ -12,6 +12,7 @@ import { HeaderComponent } from './Components/header/header.component'
 
     FooterComponent,
     HeaderComponent
+    
 
   ],
   imports: [

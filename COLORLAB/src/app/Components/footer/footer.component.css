@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bayon');
+.row{
+background-color: #A38F85;
+
+}
+
+.headtitles{
+    color: white;
+
+    font-family: 'Bayon';
+    letter-spacing: 5px;
+    font-size: 30px;
+
+    
+}
