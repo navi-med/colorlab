@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Bayon');
+.row{
+    margin: 0px;
+}
+
+.headtitles{
+    color: white;
+    margin-top: 0px;
+    font-family: 'Bayon';
+    letter-spacing: 5px;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    
+}
+
+.logo{
+    background-image: url(../../../assets/icons/LOGO.PNG);
+background-repeat: no-repeat;
+height: 50px;
+}
+
+
+.user{
+    background-image: url(../../../assets/icons/user.png);
+height: 30px;
+}

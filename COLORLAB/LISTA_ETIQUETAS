@@ -1,0 +1,12 @@
+//s2 two columns
+//push-s1 number of columns itll margin
+//color-text (i guess, i like html coding more but ok
+//s mobile -600px
+//m tablet > 600px
+//l desktop >992px 
+//xl lg desktop > 1200px
+// div class center-align col l8 push-l2
+
+
+add new component (page) to app-routing-module.ts
+import {pagenamecomponent}
