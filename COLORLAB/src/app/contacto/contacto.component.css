@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Alatsi'); 
+@import url('https://fonts.googleapis.com/css?family=Homenaje'); 
+@import url('https://fonts.googleapis.com/css?family=Bayon');
+
+
+.header{
+    font-family: Alatsi;
+   
+    font-size: 25px;
+    color: #857066;
+} 
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+  }
+
+  .bodytext{
+    font-family: Alatsi;
+    font-size: 20px;
+    color: #16110f;
+
+  }
+
+  
+  .headtitles{
+    font-family: Bayon;
+    letter-spacing: 5px;
+    color: #857066;
+    font-size: 35px;
+    
+
+  }
+
+  .btn-large{
+    background-color: #E7D7C9;
+    border-radius: 20px;
+    color: #776257;
+}
+
+.card-panel{
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 15px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+
+/* label color */
+.input-field label {
+    color: #000;
+  }
+  /* label focus color */
+  .input-field input[type=text]:focus + label {
+    color: red;
+  }
+  /* label underline focus color */
+  .input-field input[type=text]:focus {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  }
+  /* valid color */
+  .input-field input[type=text].valid {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  }
+  /* invalid color */
+  .input-field input[type=text].invalid {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  }
+  /* icon prefix focus color */
+  .input-field .prefix.active {
+    color: #000;
+  }
+       
+
+
