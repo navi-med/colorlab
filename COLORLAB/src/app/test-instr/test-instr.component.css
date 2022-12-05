@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Alatsi');
+@import url('https://fonts.googleapis.com/css?family=Homenaje');
+@import url('https://fonts.googleapis.com/css?family=Bayon');
+
+.header{
+    font-family: Alatsi;
+    letter-spacing: 5px;
+    color: #857066;
+} 
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+  }
+
+  .bodytext{
+    font-family: Alatsi;
+    font-size: 22px;
+    color: #16110f;
+
+  }
+
+  
+  .headtitles{
+    font-family: Bayon;
+    letter-spacing: 5px;
+    color: #857066;
+    font-size: 35px;
+    
+
+  }
+
+  .btn-large{
+    background-color: #E7D7C9;
+    border-radius: 20px;
+    color: #776257;
+}

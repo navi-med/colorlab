@@ -8,7 +8,8 @@ import { FooterComponent } from './Components/footer/footer.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { AboutComponent } from './about/about.component';
-import { AboutPageComponent } from './Components/about-page/about-page.component'
+import { AboutPageComponent } from './Components/about-page/about-page.component';
+import { TestInstrComponent } from './test-instr/test-instr.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,7 +18,8 @@ import { AboutPageComponent } from './Components/about-page/about-page.component
     HeaderComponent,
     HomePageComponent,
     AboutComponent,
-    AboutPageComponent
+    AboutPageComponent,
+    TestInstrComponent
     
 
   ],
