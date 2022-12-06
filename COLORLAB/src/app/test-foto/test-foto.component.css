@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Alatsi');
 @import url('https://fonts.googleapis.com/css?family=Homenaje');
 @import url('https://fonts.googleapis.com/css?family=Bayon');
+
+
 .header{
     font-family: Alatsi;
     letter-spacing: 5px;
@@ -40,9 +42,57 @@
     
 
   }
-  .body{
-    background-color: #EDE9E3 !important;
-   margin-top: -32px;
-   margin-bottom: -30px;
 
+  .bodytextitalic{
+    font-family: Alatsi;
+    font-size: 20px;
+    color: #857066;
+    font-style: italic;
+  }
+
+  .card-panel{
+    height: 315px;
+    padding-top: 115px;
+    border-radius: 10px;
+    
+    background-color: white;
 }
+
+.containerextra {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 85%;
+  }
+  
+  .image-upload>input {
+    display: none;
+  }
+
+.modal{
+  border-radius: 10px;
+  background-color: #D6B3AA;
+  margin-top: 100px;
+  height: 300px;
+  width: 300px;
+}
+
+.modtext{
+  font-family: Alatsi;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding: 70px;
+}
+
+.btn-small{
+  background-color: white;
+  border-radius: 20px;
+  height: 50px;
+  width: 90px;
+  color: #776257;
+
+  
+ 
+}
+
+  

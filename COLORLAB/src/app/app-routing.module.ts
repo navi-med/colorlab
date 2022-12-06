@@ -5,7 +5,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { AboutPageComponent } from './Components/about-page/about-page.component';
 import {TestInstrComponent} from './test-instr/test-instr.component';
 import { ContactoComponent } from './contacto/contacto.component';
-
+import { TestFotoComponent } from './test-foto/test-foto.component';
 
 const routes: Routes = [
 {path:'', component: HomePageComponent},
@@ -14,7 +14,7 @@ const routes: Routes = [
 {path:'about-page', component: AboutPageComponent},
 {path: 'test-instr', component: TestInstrComponent},
 {path: 'contacto', component: ContactoComponent},
-
+{path: 'test-foto', component: TestFotoComponent},
 
 ];
 

@@ -1,3 +1,11 @@
+READ ME!
+
+Se requiere instalar angular, materialize para que ciertos atributos corran perfectamente.
+
+Materialize: Carrusel, textos con animaciones y sus colores
+Angular: conexion entre paginas
+
+
 # COLORLAB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.

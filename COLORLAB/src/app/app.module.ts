@@ -10,7 +10,8 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { AboutComponent } from './about/about.component';
 import { AboutPageComponent } from './Components/about-page/about-page.component';
 import { TestInstrComponent } from './test-instr/test-instr.component';
-import { ContactoComponent } from './contacto/contacto.component'
+import { ContactoComponent } from './contacto/contacto.component';
+import { TestFotoComponent } from './test-foto/test-foto.component'
 
 
 
@@ -26,7 +27,8 @@ import { ContactoComponent } from './contacto/contacto.component'
     AboutComponent,
     AboutPageComponent,
     TestInstrComponent,
-    ContactoComponent
+    ContactoComponent,
+    TestFotoComponent
     
 
   ],

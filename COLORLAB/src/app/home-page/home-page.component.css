@@ -10,8 +10,27 @@ color: #CDC6C3;
 
 .carousel{
     height: 400px;
-    
+    width: 400px;
     border-radius: 10px;
     margin-bottom: 25px;
 }
 
+.body{
+    background-color: #EDE9E3 !important;
+   margin-top: -32px;
+   margin-bottom: 0px;
+
+}
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+  }
+
+  .containerextra {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 70%;
+  }
