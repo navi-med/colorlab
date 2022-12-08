@@ -1,0 +1,154 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: #d8cebd;;
+	font-size: 14px;
+	color: #776257;
+	font-family: 'Bayon',sans-serif;
+	font-weight:lighter;
+}
+
+#login-box
+	{
+	position: relative;
+	margin: 0 auto;
+	height: 700px;
+    width: 600px;
+	background: #fff;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+}
+
+.left-box
+{
+	position: center;
+	top: 10px;
+	left: 10px;
+	box-sizing: border-box;
+	padding: 40px;
+	width: 300px;
+	height: 400px;
+}
+
+h1
+{
+	margin: 0 0 0 0;
+	font-weight: 300;
+	font-size: 28px;
+}
+
+input[type="text"],
+input[type="password"]
+{
+	display: block;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	padding: 4px;
+	width: 220px;
+	height: 32px;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #aaa;
+	color: #000000;
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-style:italic;
+	font-size: 12px;
+	transition: 0.2s ease;
+}
+
+input[type="submit"]
+{
+	position: center;
+	margin-bottom: 28px;
+	width: 200px;
+	height: 32px;
+	background: #E7D7C9;
+	border: none;
+	border-radius: 25px;
+	color: #FFFFFF;
+	font-family: sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	transition: 0.2s ease;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover
+input[type="submit"]:focus
+
+{
+	background: #9f9a99;
+	transition: 0.2s ease;
+}
+
+.right-box
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	box-sizing: border-box;
+	padding: 40px;
+	width: 300px;
+	height: 700px;
+	background-color: #eDe9e3;
+}
+
+.or
+{
+	position: relative;
+	margin: 0 auto;
+	top: -180px;
+	left:280;
+	width: 40px;
+	height: 40px;
+	background: #efefef;
+	border-radius: 50%;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+	line-height: 40px;
+	text-align: center;
+}
+
+.right-box .signinwith
+{
+	display: block;
+	margin-bottom: 40px;
+	font-size: 28px;
+	color: #776257;
+	text-align: center;
+}
+
+button.social
+{
+	margin-bottom: 20px;
+	width: 220px;
+	height: 36px;
+	border: none;
+	border-radius: 25px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 500;
+	transition: 0.2s ease;
+	cursor: pointer;
+}
+
+.facebook
+{
+    background: #32508e
+}
+.twitter
+{
+    background: #55acee;
+}
+.google
+{
+    background: #dd4b39;
+}
+	
+	
+
+	
+
+
+	
+

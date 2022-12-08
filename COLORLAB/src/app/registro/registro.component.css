@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Alatsi'); 
+@import url('https://fonts.googleapis.com/css?family=Homenaje'); 
+@import url('https://fonts.googleapis.com/css?family=Bayon');
+
+
+
+.body{
+background-color:#ede9e3;
+}
+
+.top{
+  font-family:Alatsi;
+  display:flex;
+  justify-content: space-between;
+  font-size:30px;
+  color:#857066;
+  margin-bottom:0%;
+}
+
+.btn-large{
+  font-family:Bayon;
+  font-size:20px;
+  border-radius: 30px;
+  border:none;
+  background-color:#e7d7c9;
+  height:60px;
+  width: 200px;
+  margin-top:70px;
+  cursor:pointer;
+  color:#857066;
+  padding: 10px 20px;
+
+}
+
+
+.container {
+
+  max-width: 1280px;
+  width: 90%;
+  margin:0 auto;
+  
+  }
+
+
+  .forms {
+    color: #857066;
+    font-family:Homenaje;
+  }
+
+  .fields{
+    font-family:Homenaje;
+    color:#836456;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .checking{
+    font-family:Homenaje;
+    color:#836456;
+    font-size:20px;
+  }
+  
+
+
+
+  
+
+
+  

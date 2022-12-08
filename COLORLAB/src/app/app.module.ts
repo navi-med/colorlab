@@ -11,7 +11,11 @@ import { AboutComponent } from './about/about.component';
 import { AboutPageComponent } from './Components/about-page/about-page.component';
 import { TestInstrComponent } from './test-instr/test-instr.component';
 import { ContactoComponent } from './contacto/contacto.component';
-import { TestFotoComponent } from './test-foto/test-foto.component'
+import { TestFotoComponent } from './test-foto/test-foto.component';
+import { RegistroComponent } from './registro/registro.component';
+import { PerfilComponent } from './perfil/perfil.component';
+import { LoginComponent } from './login/login.component';
+import { SignupComponent } from './signup/signup.component'
 
 
 
@@ -28,7 +32,11 @@ import { TestFotoComponent } from './test-foto/test-foto.component'
     AboutPageComponent,
     TestInstrComponent,
     ContactoComponent,
-    TestFotoComponent
+    TestFotoComponent,
+    RegistroComponent,
+    PerfilComponent,
+    LoginComponent,
+    SignupComponent
     
 
   ],

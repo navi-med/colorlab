@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Alatsi'); 
+@import url('https://fonts.googleapis.com/css?family=Homenaje'); 
+@import url('https://fonts.googleapis.com/css?family=Bayon');
+
+
+.body{
+    background-color:#ede9e3;
+}
+
+.header{
+  margin-top:6%;
+    color:#776257;
+    font-family:Alatsi;
+    font-size:30px;
+}
+
+.container{
+    align-items: center;
+    color:#776257;
+    margin-left:35%;
+}
+
+.fields{
+    font-family:Homenaje; 
+    
+}
+
+.button{
+    font-family:Montsserrat;
+    font-size:20px;
+    border-radius: 5px;
+    border:none;
+    background-color:#D6B3AA;
+    height:50px;
+    width: 500px;
+    margin-top:70px;
+    cursor:pointer;
+    color:#ede9e3;
+    padding: 10px 20px;
+  
+  }
+
+  .forgetpassword {
+    font-family:Arial;
+    font-size: 10px;
+    color:black;
+    margin-left:50%;
+  }
+
+  .passwordloss{
+    margin-left:30%;
+    font-family:Arial;
+    font-size: 15px;
+    font-style:italic;
+  }
+
+  .signing{
+    font-family:Alatsi;
+    font-size:17px;
+    color:#776257;
+
+
+  }
